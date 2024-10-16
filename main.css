@@ -1,0 +1,76 @@
+body {
+  font-family: calibri;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+    }
+  
+  header
+  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 50%;
+    margin: 10px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 600;
+}
+ table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+  }
+  th{
+    font-style: calibri;
+  }
+  td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .interactive {
+    background-color: pink;
+  }
+  .gd {
+    background-color: rgba(33, 162, 206, 0.904);
+  }
+  
+  .dl {
+    background-color: lightblue;
+  }
+  
+  .study {
+    background-color: lightsteelblue;
+    color: rgba(2, 74, 206, 0.781);
+  }
+  
+  .photography {
+    background-color: rgb(236, 236, 160);
+  }
+  
+  .st {
+    background-color: rgb(11, 142, 160);
+  }
+  
+  .kuben {
+    background-color: lightsalmon;
+  }
+  
+  .mg {
+    background-color: rgb(5, 211, 238);
+  }
+  .ss {
+    background-color: rgb(184, 176, 176);
+    color: grey;
+  }
+  
+  main h3 {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+  }
+
+    
